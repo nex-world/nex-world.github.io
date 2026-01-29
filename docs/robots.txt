@@ -1,0 +1,25 @@
+# NEXWORLD Robots.txt
+# 允许所有搜索引擎抓取
+
+User-agent: *
+Allow: /
+
+# 禁止抓取的路径（如果有）
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap 位置
+Sitemap: https://nexworld.wiki/sitemap.xml
+
+# 常见搜索引擎特定规则
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# 爬取频率建议（可选）
+Crawl-delay: 1
