@@ -8,7 +8,7 @@
   <!-- 首页 - 最高优先级 -->
   <url>
     <loc>https://nexworld.wiki/</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -16,7 +16,7 @@
   <!-- 立即试玩 Demo - 高优先级 -->
   <url>
     <loc>https://nexworld.wiki/demo</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -24,7 +24,22 @@
   <!-- Tavern 客户端介绍 - 高优先级 -->
   <url>
     <loc>https://nexworld.wiki/tavern-intro</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 人生重开模拟器 - 高优先级 -->
+  <url>
+    <loc>https://nexworld.wiki/liferestart</loc>
+    <lastmod>2026-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://nexworld.wiki/liferestart-ai</loc>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -32,7 +47,7 @@
   <!-- API Key 配置指南 - 高优先级 -->
   <url>
     <loc>https://nexworld.wiki/api-guide</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -40,14 +55,14 @@
   <!-- 博客文章 - 高优先级SEO内容 -->
   <url>
     <loc>https://nexworld.wiki/blog/api-key-free-2026</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://nexworld.wiki/blog/ai-text-adventure-guide</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -55,7 +70,7 @@
   <!-- 联系方式 - 中优先级 -->
   <url>
     <loc>https://nexworld.wiki/contact</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -63,7 +78,7 @@
   <!-- 资助合作 - 中优先级 -->
   <url>
     <loc>https://nexworld.wiki/support</loc>
-    <lastmod>2026-01-29</lastmod>
+    <lastmod>2026-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
