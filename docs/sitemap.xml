@@ -74,6 +74,41 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://nexworld.wiki/blog/tavern-ai-challenge</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexworld.wiki/blog/tavern-ai-dnd</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexworld.wiki/blog/tavern-ai-group-chat</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexworld.wiki/blog/tavern-ai-novel</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://nexworld.wiki/blog/tavern-ai-small-town</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- 联系方式 - 中优先级 -->
   <url>
     <loc>https://nexworld.wiki/contact</loc>
