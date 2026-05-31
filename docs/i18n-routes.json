@@ -6,31 +6,36 @@
         "zh": "NEXWORLD - AI 驱动文字冒险游戏 | 免费在线试玩 NexTavern",
         "en": "NEXWORLD - AI-Powered Text Adventure Game | Free Online Demo",
         "ja": "NEXWORLD - AI 駆動テキストアドベンチャー | 無料オンライン体験版",
-        "ko": "NEXWORLD - AI 기반 텍스트 어드벤처 게임 | 무료 온라인 데모"
+        "ko": "NEXWORLD - AI 기반 텍스트 어드벤처 게임 | 무료 온라인 데모",
+        "tw": "NEXWORLD - AI 驅動文字冒險遊戲 | 免費線上試玩 NexTavern"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -93,31 +98,36 @@
         "zh": "目标与变量：挑战模式",
         "en": "Challenge Mode: Goals & Variables",
         "ja": "チャレンジモード：目標と変数",
-        "ko": "목표와 변수: 챌린지 모드"
+        "ko": "목표와 변수: 챌린지 모드",
+        "tw": "目標與變數：挑戰模式"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -126,31 +136,36 @@
         "zh": "AI DnD 跑团",
         "en": "AI DnD Campaigns",
         "ja": "AI DnD セッション",
-        "ko": "AI DnD 캠페인"
+        "ko": "AI DnD 캠페인",
+        "tw": "AI DnD 跑團"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -159,31 +174,36 @@
         "zh": "AI OC 群聊",
         "en": "AI OC Group Chat",
         "ja": "AI OC グループチャット",
-        "ko": "AI OC 그룹 채팅"
+        "ko": "AI OC 그룹 채팅",
+        "tw": "AI OC 群聊"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -192,31 +212,36 @@
         "zh": "AI小说生成器",
         "en": "AI Novel Generator",
         "ja": "AI小説ジェネレーター",
-        "ko": "AI 소설 생성기"
+        "ko": "AI 소설 생성기",
+        "tw": "AI 小說產生器"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -225,31 +250,36 @@
         "zh": "你的专属AI小镇",
         "en": "Your Own AI Small Town",
         "ja": "自分だけのAIタウン",
-        "ko": "나만의 AI 스몰 타운"
+        "ko": "나만의 AI 스몰 타운",
+        "tw": "你的專屬 AI 小鎮"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -258,31 +288,36 @@
         "zh": "NexTavern：下一代云酒馆",
         "en": "NexTavern: The Next-Gen Cloud Tavern",
         "ja": "NexTavern：次世代クラウド酒場",
-        "ko": "NexTavern: 차세대 클라우드 선술집"
+        "ko": "NexTavern: 차세대 클라우드 선술집",
+        "tw": "NexTavern：次世代雲端酒館"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -291,31 +326,36 @@
         "zh": "联系 NEXWORLD - 加入 AI 文字冒险玩家社区",
         "en": "Contact NEXWORLD - Join Our AI Text Adventure Community",
         "ja": "NEXWORLD お問い合わせ - AI テキストアドベンチャーコミュニティ",
-        "ko": "NEXWORLD 문의하기 - AI 텍스트 어드벤처 커뮤니티 참여"
+        "ko": "NEXWORLD 문의하기 - AI 텍스트 어드벤처 커뮤니티 참여",
+        "tw": "聯絡 NEXWORLD - 加入 AI 文字冒險玩家社群"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -324,31 +364,36 @@
         "zh": "立即试玩 NEXWORLD Demo",
         "en": "Try the NEXWORLD Demo",
         "ja": "NEXWORLD Demo を試す",
-        "ko": "NEXWORLD 데모 체험하기"
+        "ko": "NEXWORLD 데모 체험하기",
+        "tw": "立即試玩 NEXWORLD Demo"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -357,31 +402,36 @@
         "zh": "人生重开模拟器 AI 版",
         "en": "Life Restart Simulator AI",
         "ja": "人生やり直しシミュレーター AI",
-        "ko": "인생 리스타트 시뮬레이터 AI"
+        "ko": "인생 리스타트 시뮬레이터 AI",
+        "tw": "人生重啟模擬器 AI 版"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -408,31 +458,36 @@
         "zh": "支持 NEXWORLD - 资助 AI 文字冒险游戏开发",
         "en": "Support NEXWORLD",
         "ja": "NEXWORLD をサポートする",
-        "ko": "NEXWORLD 후원하기 - AI 텍스트 어드벤처 게임 개발 지원"
+        "ko": "NEXWORLD 후원하기 - AI 텍스트 어드벤처 게임 개발 지원",
+        "tw": "贊助 NEXWORLD - 支援 AI 文字冒險遊戲開發"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -441,31 +496,36 @@
         "zh": "NexTavern 聊天客户端 - 免费在线 AI 角色对话工具",
         "en": "NexTavern Chat Client - Free Online AI Character Chat",
         "ja": "NexTavern チャットクライアント - 無料 AI ロールプレイ",
-        "ko": "NexTavern 채팅 클라이언트 - 무료 온라인 AI 캐릭터 대화 도구"
+        "ko": "NexTavern 채팅 클라이언트 - 무료 온라인 AI 캐릭터 대화 도구",
+        "tw": "NexTavern 聊天用戶端 - 免費線上 AI 角色對話工具"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -474,31 +534,36 @@
         "zh": "服务条款",
         "en": "Terms of Service",
         "ja": "利用規約",
-        "ko": "서비스 약관"
+        "ko": "서비스 약관",
+        "tw": "服務條款"
       },
       "languages": [
         "zh",
         "en",
         "ja",
-        "ko"
+        "ko",
+        "tw"
       ],
       "status": {
         "zh": "published",
         "en": "published",
         "ja": "published",
-        "ko": "published"
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
         "zh": true,
         "en": true,
         "ja": true,
-        "ko": true
+        "ko": true,
+        "tw": true
       },
       "hidden": {
         "zh": false,
         "en": false,
         "ja": false,
-        "ko": false
+        "ko": false,
+        "tw": false
       }
     }
   ],
