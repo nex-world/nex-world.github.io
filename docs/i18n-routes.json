@@ -1,0 +1,353 @@
+{
+  "routes": [
+    {
+      "path": "index",
+      "title": {
+        "zh": "NEXWORLD - AI 驱动文字冒险游戏 | 免费在线试玩 NexTavern",
+        "en": "NEXWORLD - AI-Powered Text Adventure Game | Free Online Demo",
+        "ja": "NEXWORLD - AI 駆動テキストアドベンチャー | 無料オンライン体験版"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    },
+    {
+      "path": "api-guide",
+      "title": {
+        "zh": "API Key 配置指南"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": true
+      }
+    },
+    {
+      "path": "blog/ai-text-adventure-guide",
+      "title": {
+        "zh": "AI 文字冒险游戏完全指南（2026）"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/api-key-free-2026",
+      "title": {
+        "zh": "如何免费获取 AI API Key（2026 最新攻略）"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": true
+      }
+    },
+    {
+      "path": "blog/tavern-ai-challenge",
+      "title": {
+        "zh": "目标与变量：挑战模式"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/tavern-ai-dnd",
+      "title": {
+        "zh": "AI DnD 跑团"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/tavern-ai-group-chat",
+      "title": {
+        "zh": "AI OC 群聊"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/tavern-ai-novel",
+      "title": {
+        "zh": "AI小说生成器"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/tavern-ai-small-town",
+      "title": {
+        "zh": "你的专属AI小镇"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/why-nextavern-is-different",
+      "title": {
+        "zh": "NexTavern：下一代云酒馆"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "contact",
+      "title": {
+        "zh": "联系 NEXWORLD - 加入 AI 文字冒险玩家社区",
+        "en": "Contact NEXWORLD - Join Our AI Text Adventure Community",
+        "ja": "NEXWORLD お問い合わせ - AI テキストアドベンチャーコミュニティ"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    },
+    {
+      "path": "demo",
+      "title": {
+        "zh": "立即试玩 NEXWORLD Demo",
+        "en": "Try the NEXWORLD Demo",
+        "ja": "NEXWORLD Demo を試す"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    },
+    {
+      "path": "liferestart",
+      "title": {
+        "zh": "人生重开模拟器 AI 版",
+        "en": "Life Restart Simulator AI",
+        "ja": "人生やり直しシミュレーター AI"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    },
+    {
+      "path": "liferestart-ai",
+      "title": {
+        "zh": "人生重开模拟器 AI 版"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": true
+      }
+    },
+    {
+      "path": "support",
+      "title": {
+        "zh": "支持 NEXWORLD - 资助 AI 文字冒险游戏开发",
+        "en": "Support NEXWORLD",
+        "ja": "NEXWORLD をサポートする"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    },
+    {
+      "path": "tavern-intro",
+      "title": {
+        "zh": "NexTavern 聊天客户端 - 免费在线 AI 角色对话工具",
+        "en": "NexTavern Chat Client - Free Online AI Character Chat",
+        "ja": "NexTavern チャットクライアント - 無料 AI ロールプレイ"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false
+      }
+    }
+  ],
+  "urlStrategy": "default-unprefixed"
+}
