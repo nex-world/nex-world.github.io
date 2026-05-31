@@ -7,6 +7,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/" />
   </url>
   <url>
@@ -15,6 +16,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/" />
   </url>
   <url>
@@ -23,6 +25,16 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/" />
   </url>
   <url>
@@ -47,36 +59,216 @@
     <loc>https://nexworld.wiki/blog/tavern-ai-challenge/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/tavern-ai-challenge/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/tavern-ai-challenge/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/tavern-ai-challenge/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-challenge/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-challenge/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-challenge/" />
   </url>
   <url>
     <loc>https://nexworld.wiki/blog/tavern-ai-dnd/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/tavern-ai-dnd/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/tavern-ai-dnd/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/tavern-ai-dnd/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-dnd/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-dnd/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-dnd/" />
   </url>
   <url>
     <loc>https://nexworld.wiki/blog/tavern-ai-group-chat/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/tavern-ai-group-chat/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/tavern-ai-group-chat/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/tavern-ai-group-chat/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-group-chat/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-group-chat/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-group-chat/" />
   </url>
   <url>
     <loc>https://nexworld.wiki/blog/tavern-ai-novel/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/tavern-ai-novel/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/tavern-ai-novel/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/tavern-ai-novel/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-novel/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-novel/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-novel/" />
   </url>
   <url>
     <loc>https://nexworld.wiki/blog/tavern-ai-small-town/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/tavern-ai-small-town/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/tavern-ai-small-town/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/tavern-ai-small-town/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/tavern-ai-small-town/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/tavern-ai-small-town/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/tavern-ai-small-town/" />
   </url>
   <url>
     <loc>https://nexworld.wiki/blog/why-nextavern-is-different/</loc>
     <lastmod>2026-05-31</lastmod>
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/blog/why-nextavern-is-different/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/blog/why-nextavern-is-different/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/blog/why-nextavern-is-different/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/blog/why-nextavern-is-different/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/blog/why-nextavern-is-different/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/blog/why-nextavern-is-different/" />
   </url>
   <url>
@@ -85,6 +277,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/contact/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/contact/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/contact/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/contact/" />
   </url>
   <url>
@@ -93,6 +286,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/contact/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/contact/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/contact/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/contact/" />
   </url>
   <url>
@@ -101,6 +295,16 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/contact/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/contact/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/contact/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/contact/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/contact/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/contact/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/contact/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/contact/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/contact/" />
   </url>
   <url>
@@ -109,6 +313,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/demo/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/demo/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/demo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/demo/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/demo/" />
   </url>
   <url>
@@ -117,6 +322,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/demo/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/demo/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/demo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/demo/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/demo/" />
   </url>
   <url>
@@ -125,6 +331,16 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/demo/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/demo/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/demo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/demo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/demo/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/demo/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/demo/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/demo/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/demo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/demo/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/demo/" />
   </url>
   <url>
@@ -133,6 +349,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/liferestart/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/liferestart/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/liferestart/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/liferestart/" />
   </url>
   <url>
@@ -141,6 +358,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/liferestart/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/liferestart/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/liferestart/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/liferestart/" />
   </url>
   <url>
@@ -149,6 +367,16 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/liferestart/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/liferestart/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/liferestart/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/liferestart/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/liferestart/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/liferestart/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/liferestart/" />
   </url>
   <url>
@@ -163,6 +391,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/support/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/support/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/support/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/support/" />
   </url>
   <url>
@@ -171,6 +400,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/support/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/support/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/support/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/support/" />
   </url>
   <url>
@@ -179,6 +409,16 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/support/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/support/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/support/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/support/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/support/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/support/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/support/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/support/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/support/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/support/" />
   </url>
   <url>
@@ -187,6 +427,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/tavern-intro/" />
   </url>
   <url>
@@ -195,6 +436,7 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/tavern-intro/" />
   </url>
   <url>
@@ -203,6 +445,52 @@
     <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/tavern-intro/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/tavern-intro/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/tavern-intro/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/tavern-intro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/tavern-intro/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/terms/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/terms/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/en/terms/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/terms/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ja/terms/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/terms/" />
+  </url>
+  <url>
+    <loc>https://nexworld.wiki/ko/terms/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://nexworld.wiki/terms/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nexworld.wiki/en/terms/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://nexworld.wiki/ja/terms/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://nexworld.wiki/ko/terms/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nexworld.wiki/terms/" />
   </url>
 </urlset>
