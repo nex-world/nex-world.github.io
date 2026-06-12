@@ -39,6 +39,42 @@
       }
     },
     {
+      "path": "ai-games/chongzhen-simulator",
+      "title": {
+        "zh": "历史模拟器：崇祯"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "ai-games/ksanadock-microverse",
+      "title": {
+        "zh": "时空码头 · 盒中小世界"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
       "path": "api-guide",
       "title": {
         "zh": "API Key 配置指南"
