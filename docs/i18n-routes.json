@@ -39,6 +39,42 @@
       }
     },
     {
+      "path": "ai-games/ai-games-panorama-2026",
+      "title": {
+        "zh": "AI 原生游戏全景报告（2025-2026）"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "ai-games/ai-roguelite",
+      "title": {
+        "zh": "AI Roguelite"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
       "path": "ai-games/chongzhen-simulator",
       "title": {
         "zh": "历史模拟器：崇祯"
