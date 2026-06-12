@@ -41,73 +41,153 @@
     {
       "path": "ai-games/ai-games-panorama-2026",
       "title": {
-        "zh": "AI 原生游戏全景报告（2025-2026）"
+        "zh": "AI 原生游戏全景报告（2025-2026）",
+        "en": "AI-Native Games Panorama Report (2025-2026)",
+        "ja": "AIネイティブゲーム全体像レポート（2025-2026）",
+        "ko": "AI 네이티브 게임 전망 보고서 (2025-2026)",
+        "tw": "AI 原生遊戲全景報告（2025-2026）"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
       "path": "ai-games/ai-roguelite",
       "title": {
-        "zh": "AI Roguelite"
+        "zh": "AI Roguelite",
+        "en": "AI Roguelite",
+        "ja": "AI Roguelite",
+        "ko": "AI Roguelite",
+        "tw": "AI Roguelite"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
       "path": "ai-games/chongzhen-simulator",
       "title": {
-        "zh": "历史模拟器：崇祯"
+        "zh": "历史模拟器：崇祯",
+        "en": "Historical Simulator: Chongzhen",
+        "ja": "歴史シミュレーター：崇禎",
+        "ko": "역사 시뮬레이터: 숭정",
+        "tw": "歷史模擬器：崇禎"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
       "path": "ai-games/ksanadock-microverse",
       "title": {
-        "zh": "时空码头 · 盒中小世界"
+        "zh": "时空码头 · 盒中小世界",
+        "en": "KsanaDock · Microverse In Box",
+        "ja": "KsanaDock · 箱の中の小世界（Microverse In Box）",
+        "ko": "시공간 부두 · 상자 속 작은 세상 (KsanaDock: Microverse In Box)",
+        "tw": "時空碼頭 · 盒中小世界"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
