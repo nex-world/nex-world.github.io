@@ -39,6 +39,44 @@
       }
     },
     {
+      "path": "ai-games/agentank",
+      "title": {
+        "zh": "AgenTank：AI 坦克大战",
+        "en": "AgenTank: AI Tank Battle",
+        "ja": "AgenTank：AIタンクバトル",
+        "ko": "AgenTank: AI 탱크 배틀",
+        "tw": "AgenTank：AI 坦克大戰"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
+      }
+    },
+    {
       "path": "ai-games/ai-games-panorama-2026",
       "title": {
         "zh": "AI 原生游戏全景报告（2025-2026）",
