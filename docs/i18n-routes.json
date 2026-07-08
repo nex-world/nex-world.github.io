@@ -4,7 +4,7 @@
       "path": "index",
       "title": {
         "zh": "NEXWORLD - AI 驱动文字冒险游戏 | 免费在线试玩 NexTavern",
-        "en": "NEXWORLD - AI-Powered Text Adventure Game | Free Online Demo",
+        "en": "NEXWORLD - AI Text Adventure Demo",
         "ja": "NEXWORLD - AI 駆動テキストアドベンチャー | 無料オンライン体験版",
         "ko": "NEXWORLD - AI 기반 텍스트 어드벤처 게임 | 무료 온라인 데모",
         "tw": "NEXWORLD - AI 驅動文字冒險遊戲 | 免費線上試玩 NexTavern"
@@ -155,11 +155,11 @@
     {
       "path": "ai-games/chongzhen-simulator",
       "title": {
-        "zh": "历史模拟器：崇祯",
+        "zh": "历史模拟器：崇祯 - AI 原生历史策略游戏",
         "en": "Historical Simulator: Chongzhen",
         "ja": "歴史シミュレーター：崇禎",
         "ko": "역사 시뮬레이터: 숭정",
-        "tw": "歷史模擬器：崇禎"
+        "tw": "歷史模擬器：崇禎 - AI 原生歷史策略遊戲"
       },
       "languages": [
         "zh",
@@ -267,7 +267,7 @@
     {
       "path": "blog/api-key-free-2026",
       "title": {
-        "zh": "AI API Key 获取与安全使用指南"
+        "zh": "AI API Key 获取与安全使用指南（2026）"
       },
       "languages": [
         "zh"
@@ -361,11 +361,11 @@
     {
       "path": "blog/tavern-ai-group-chat",
       "title": {
-        "zh": "AI OC 群聊",
+        "zh": "AI OC 群聊玩法 - NexTavern 多角色互动",
         "en": "AI OC Group Chat",
         "ja": "AI OC グループチャット",
         "ko": "AI OC 그룹 채팅",
-        "tw": "AI OC 群聊"
+        "tw": "AI OC 群聊玩法 - NexTavern 多角色互動"
       },
       "languages": [
         "zh",
@@ -399,11 +399,11 @@
     {
       "path": "blog/tavern-ai-novel",
       "title": {
-        "zh": "AI小说生成器",
+        "zh": "AI 小说生成器 - NexTavern 小说模式指南",
         "en": "AI Novel Generator",
         "ja": "AI小説ジェネレーター",
         "ko": "AI 소설 생성기",
-        "tw": "AI 小說產生器"
+        "tw": "AI 小說產生器 - NexTavern 小說模式指南"
       },
       "languages": [
         "zh",
@@ -437,7 +437,7 @@
     {
       "path": "blog/tavern-ai-small-town",
       "title": {
-        "zh": "你的专属AI小镇",
+        "zh": "AI 小镇模式 - 让角色自主生活的 NexTavern",
         "en": "Your Own AI Small Town",
         "ja": "自分だけのAIタウン",
         "ko": "나만의 AI 스몰 타운",
@@ -514,7 +514,7 @@
       "path": "contact",
       "title": {
         "zh": "联系 NEXWORLD - 加入 AI 文字冒险玩家社区",
-        "en": "Contact NEXWORLD - Join Our AI Text Adventure Community",
+        "en": "Contact NEXWORLD Community",
         "ja": "NEXWORLD お問い合わせ - AI テキストアドベンチャーコミュニティ",
         "ko": "NEXWORLD 문의하기 - AI 텍스트 어드벤처 커뮤니티 참여",
         "tw": "聯絡 NEXWORLD - 加入 AI 文字冒險玩家社群"
@@ -589,7 +589,7 @@
     {
       "path": "liferestart",
       "title": {
-        "zh": "人生重开模拟器 AI 版",
+        "zh": "人生重开模拟器 AI 版 - 在线文字人生模拟",
         "en": "Life Restart Simulator AI",
         "ja": "人生やり直しシミュレーター AI",
         "ko": "인생 리스타트 시뮬레이터 AI",
@@ -627,7 +627,7 @@
     {
       "path": "liferestart-ai",
       "title": {
-        "zh": "人生重开模拟器 AI 版"
+        "zh": "人生重开模拟器 AI 版入口 - 在线体验"
       },
       "languages": [
         "zh"
@@ -646,10 +646,10 @@
       "path": "support",
       "title": {
         "zh": "支持 NEXWORLD - 资助 AI 文字冒险游戏开发",
-        "en": "Support NEXWORLD",
-        "ja": "NEXWORLD をサポートする",
-        "ko": "NEXWORLD 후원하기 - AI 텍스트 어드벤처 게임 개발 지원",
-        "tw": "贊助 NEXWORLD - 支援 AI 文字冒險遊戲開發"
+        "en": "Support NEXWORLD - Investment and BP",
+        "ja": "NEXWORLD をサポート - 投資と BP",
+        "ko": "NEXWORLD 후원 및 투자 - BP 다운로드",
+        "tw": "贊助 NEXWORLD - 投資合作與 BP"
       },
       "languages": [
         "zh",
@@ -721,11 +721,11 @@
     {
       "path": "terms",
       "title": {
-        "zh": "服务条款",
-        "en": "Terms of Service",
-        "ja": "利用規約",
-        "ko": "서비스 약관",
-        "tw": "服務條款"
+        "zh": "NEXWORLD 服务条款与使用规则",
+        "en": "NEXWORLD Terms of Service",
+        "ja": "NEXWORLD 利用規約と使用条件",
+        "ko": "NEXWORLD 서비스 약관 및 이용 규칙",
+        "tw": "NEXWORLD 服務條款與使用規則"
       },
       "languages": [
         "zh",
