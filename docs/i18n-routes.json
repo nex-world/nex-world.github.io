@@ -283,6 +283,44 @@
       }
     },
     {
+      "path": "blog/diversity-of-ai-games",
+      "title": {
+        "zh": "AI 游戏不止一种：从人和 AI 聊天，到 AI 为 AI 创造世界",
+        "en": "AI Games Are More Than One Thing: From Talking With AI to AI Building Worlds for AI",
+        "ja": "AIゲームはひとつではない：人とAIの会話から、AIがAIのために世界を作るまで",
+        "ko": "AI 게임은 하나가 아니다: 인간과 AI의 대화부터 AI가 AI를 위해 만드는 세계까지",
+        "tw": "AI 遊戲不只一種：從人與 AI 聊天，到 AI 為 AI 創造世界"
+      },
+      "languages": [
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
+      ],
+      "status": {
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
+      },
+      "sitemap": {
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
+      },
+      "hidden": {
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
+      }
+    },
+    {
       "path": "blog/tavern-ai-challenge",
       "title": {
         "zh": "目标与变量：挑战模式",
