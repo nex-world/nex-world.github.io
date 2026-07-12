@@ -155,7 +155,7 @@
     {
       "path": "ai-games/chongzhen-simulator",
       "title": {
-        "zh": "历史模拟器：崇祯 - AI 原生历史策略游戏",
+        "zh": "《历史模拟器：崇祯》游戏评测 - AI 圣旨治国、价格、Token 机制与玩法指南",
         "en": "Historical Simulator: Chongzhen",
         "ja": "歴史シミュレーター：崇禎",
         "ko": "역사 시뮬레이터: 숭정",
@@ -403,7 +403,7 @@
         "en": "AI OC Group Chat",
         "ja": "AI OC グループチャット",
         "ko": "AI OC 그룹 채팅",
-        "tw": "AI OC 群聊玩法 - NexTavern 多角色互動"
+        "tw": "NexTavern AI OC 群聊完整指南 - 多角色互動、關係測試與同人創作玩法"
       },
       "languages": [
         "zh",
@@ -437,11 +437,11 @@
     {
       "path": "blog/tavern-ai-novel",
       "title": {
-        "zh": "AI 小说生成器 - NexTavern 小说模式指南",
+        "zh": "NexTavern AI 小说生成器完整指南 - 智能续写、世界观管理、要素提取与互动叙事",
         "en": "AI Novel Generator",
         "ja": "AI小説ジェネレーター",
         "ko": "AI 소설 생성기",
-        "tw": "AI 小說產生器 - NexTavern 小說模式指南"
+        "tw": "NexTavern AI 小說產生器完整指南 - 智慧續寫、世界觀管理、要素提取與互動敘事"
       },
       "languages": [
         "zh",
@@ -475,7 +475,7 @@
     {
       "path": "blog/tavern-ai-small-town",
       "title": {
-        "zh": "AI 小镇模式 - 让角色自主生活的 NexTavern",
+        "zh": "NexTavern AI 小镇模式完整指南 - 自治角色、长期记忆、经济系统与世界模拟玩法",
         "en": "Your Own AI Small Town",
         "ja": "自分だけのAIタウン",
         "ko": "나만의 AI 스몰 타운",
@@ -759,10 +759,10 @@
     {
       "path": "terms",
       "title": {
-        "zh": "NEXWORLD 服务条款与使用规则",
+        "zh": "NEXWORLD 服务条款 - AI 文字冒险、NexTavern、API Key 与用户内容规则",
         "en": "NEXWORLD Terms of Service",
-        "ja": "NEXWORLD 利用規約と使用条件",
-        "ko": "NEXWORLD 서비스 약관 및 이용 규칙",
+        "ja": "NEXWORLD 利用規約 - AIゲーム、API Key、ユーザーコンテンツ、免責事項",
+        "ko": "NEXWORLD 서비스 약관 - AI 게임, API Key, 사용자 콘텐츠 및 책임 범위",
         "tw": "NEXWORLD 服務條款與使用規則"
       },
       "languages": [
