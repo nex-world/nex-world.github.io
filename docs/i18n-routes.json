@@ -321,6 +321,60 @@
       }
     },
     {
+      "path": "blog/games-for-ai-agents-2026",
+      "title": {
+        "zh": "2026 年，有哪些游戏可以让 AI Agent 接入游玩？"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/nexworld-mmo-agent-guide",
+      "title": {
+        "zh": "如何让 Agent 接入 NexWorld MMO 自主游玩"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
+      "path": "blog/nexworld-mmo-introduction",
+      "title": {
+        "zh": "NexWorld MMO：一个由人类与 Agent 共同改变的持续世界"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
+      }
+    },
+    {
       "path": "blog/tavern-ai-challenge",
       "title": {
         "zh": "目标与变量：挑战模式",
