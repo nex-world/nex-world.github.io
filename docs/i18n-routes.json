@@ -4,10 +4,10 @@
       "path": "index",
       "title": {
         "zh": "NEXWORLD - AI 文字冒险、NexTavern 与 Agent MMO",
-        "en": "NEXWORLD - AI Text Adventure Demo",
-        "ja": "NEXWORLD - AI 駆動テキストアドベンチャー | 無料オンライン体験版",
-        "ko": "NEXWORLD - AI 기반 텍스트 어드벤처 게임 | 무료 온라인 데모",
-        "tw": "NEXWORLD - AI 驅動文字冒險遊戲 | 免費線上試玩 NexTavern"
+        "en": "NEXWORLD - AI Text Adventures, NexTavern, and an Agent MMO",
+        "ja": "NEXWORLD - AIテキストアドベンチャー、NexTavern、Agent MMO",
+        "ko": "NEXWORLD - AI 텍스트 어드벤처, NexTavern, 에이전트 MMO",
+        "tw": "NEXWORLD - AI 文字冒險、NexTavern 與智慧體 MMO"
       },
       "languages": [
         "zh",
@@ -323,55 +323,115 @@
     {
       "path": "blog/games-for-ai-agents-2026",
       "title": {
-        "zh": "2026 年，有哪些游戏可以让 AI Agent 接入游玩？"
+        "zh": "2026 年，有哪些游戏可以让 AI Agent 接入游玩？",
+        "en": "What Games Can AI Agents Play in 2026?",
+        "ja": "2026年、AIエージェントが接続して遊べるゲームは？",
+        "ko": "2026년, AI 에이전트가 접속해 플레이할 수 있는 게임은?",
+        "tw": "2026 年，有哪些遊戲可以讓 AI 智慧體接入遊玩？"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       }
     },
     {
       "path": "blog/nexworld-mmo-agent-guide",
       "title": {
-        "zh": "如何让 Agent 接入 NexWorld MMO 自主游玩"
+        "zh": "如何让 Agent 接入 NexWorld MMO 自主游玩",
+        "en": "How to Let an AI Agent Play NexWorld MMO",
+        "ja": "AIエージェントをNexWorld MMOへ接続し、自律プレイさせる方法",
+        "ko": "AI 에이전트를 NexWorld MMO에 연결해 자율 플레이시키는 방법",
+        "tw": "如何讓 AI 智慧體接入 NexWorld MMO 自主遊玩"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
       "path": "blog/nexworld-mmo-introduction",
       "title": {
-        "zh": "NexWorld MMO：一个由人类与 Agent 共同改变的持续世界"
+        "zh": "NexWorld MMO：人与 Agent 共创一个会持续变化的世界",
+        "en": "NexWorld MMO: Build a Living World with People and AI Agents",
+        "ja": "NexWorld MMO：人とAIエージェントで、変わり続ける世界を創ろう",
+        "ko": "NexWorld MMO: 인간과 AI 에이전트가 함께 만드는 살아 있는 세계",
+        "tw": "NexWorld MMO：與人類和 AI 智慧體共創一個持續變化的世界"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
@@ -719,37 +779,77 @@
     {
       "path": "liferestart-ai",
       "title": {
-        "zh": "人生重开模拟器 AI 版入口 - 在线体验"
+        "zh": "人生重开模拟器 AI 版入口 - 在线体验",
+        "en": "Life Restart Simulator AI - Play Online",
+        "ja": "人生やり直しシミュレーター AI - オンライン体験",
+        "ko": "인생 리스타트 시뮬레이터 AI - 온라인 플레이",
+        "tw": "人生重啟模擬器 AI 版 - 線上體驗"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       }
     },
     {
       "path": "mmo",
       "title": {
-        "zh": "NexWorld MMO - 人类与 AI Agent 共同参与的持续世界"
+        "zh": "NexWorld MMO - 和人类与 AI Agent 一起改变世界",
+        "en": "NexWorld MMO - Change a Shared World with People and AI Agents",
+        "ja": "NexWorld MMO - 人間とAIエージェントで共有世界を変えよう",
+        "ko": "NexWorld MMO - 인간과 AI 에이전트가 함께 바꾸는 세계",
+        "tw": "NexWorld MMO - 與人類和 AI 智慧體一起改變世界"
       },
       "languages": [
-        "zh"
+        "zh",
+        "en",
+        "ja",
+        "ko",
+        "tw"
       ],
       "status": {
-        "zh": "published"
+        "zh": "published",
+        "en": "published",
+        "ja": "published",
+        "ko": "published",
+        "tw": "published"
       },
       "sitemap": {
-        "zh": true
+        "zh": true,
+        "en": true,
+        "ja": true,
+        "ko": true,
+        "tw": true
       },
       "hidden": {
-        "zh": false
+        "zh": false,
+        "en": false,
+        "ja": false,
+        "ko": false,
+        "tw": false
       }
     },
     {
