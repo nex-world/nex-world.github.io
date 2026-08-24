@@ -3,7 +3,7 @@
     {
       "path": "index",
       "title": {
-        "zh": "NEXWORLD - AI 驱动文字冒险游戏 | 免费在线试玩 NexTavern",
+        "zh": "NEXWORLD - AI 文字冒险、NexTavern 与 Agent MMO",
         "en": "NEXWORLD - AI Text Adventure Demo",
         "ja": "NEXWORLD - AI 駆動テキストアドベンチャー | 無料オンライン体験版",
         "ko": "NEXWORLD - AI 기반 텍스트 어드벤처 게임 | 무료 온라인 데모",
@@ -732,6 +732,24 @@
       },
       "hidden": {
         "zh": true
+      }
+    },
+    {
+      "path": "mmo",
+      "title": {
+        "zh": "NexWorld MMO - 人类与 AI Agent 共同参与的持续世界"
+      },
+      "languages": [
+        "zh"
+      ],
+      "status": {
+        "zh": "published"
+      },
+      "sitemap": {
+        "zh": true
+      },
+      "hidden": {
+        "zh": false
       }
     },
     {
